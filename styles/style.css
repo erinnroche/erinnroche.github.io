@@ -1,0 +1,28 @@
+
+ul {
+	list-style: inside;
+}
+img {
+	border: 1px solid black;
+	float: right;
+	width: 200px;
+	margin-right: 60px;
+	padding: 20px;
+}
+
+body {
+border-top: 5px solid black;
+border-bottom: 5px solid black;
+background-color: lightgray;
+text-align: center;
+font-family: arial;
+}
+
+h3 {
+	text-transform: uppercase;
+}
+
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+}
